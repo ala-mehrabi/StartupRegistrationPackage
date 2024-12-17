@@ -6,10 +6,14 @@
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
     <Authors>ala mehrabi</Authors>
     <Description>Base Configuration For Startup Of Project</Description>
-    <PackageReleaseNotes>base utility</PackageReleaseNotes>
-    <AssemblyVersion>1.0.0</AssemblyVersion>
-    <FileVersion>1.0.0</FileVersion>
-    <Version>1.0.0</Version>
+    <PackageProjectUrl>https://github.com/ala-mehrabi/StartupRegistrationPackage</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ala-mehrabi/StartupRegistrationPackage</RepositoryUrl>
+    <PackageReleaseNotes>Base Configuration For Startup Of Project</PackageReleaseNotes>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
+    <Version>1.0.1</Version>
+    <RepositoryType>git</RepositoryType>
+    <LicenseUrl>https://opensource.org/licenses/MIT</LicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
